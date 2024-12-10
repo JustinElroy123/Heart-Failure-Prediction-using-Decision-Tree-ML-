@@ -18,7 +18,7 @@ Pandas
 Numpy
 Gradio (for the interactive GUI)
 
+![image](https://github.com/user-attachments/assets/56ecdf78-3392-4958-8f81-0c6b6459b4e1)
 
-https://github.com/JustinElroy123/Heart-Failure-Prediction-using-Decision-Tree-ML-/blob/99e8a7349aeae55c6459fd09c760fbc99265be8c/Screenshot%20GUI%20Heart%20Failure%20ML.jpg 
 
 
